@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @araonerb
+- 👋 Hi, I’m @bleedbre
 - 👀 I’m interested in  aprender e corrigir
 - 🌱 I’m currently learning  Python/JS/HTML/CSS
 - 💞️ I am estudante de programação e faço parte da aréa da educação
